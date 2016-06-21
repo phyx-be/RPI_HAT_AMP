@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RPI_HAT_AMP_TAS5756_01.PcbDoc   29/08/2015  22:58:25
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RPI_HAT_AMP_TAS5756_01.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.81mil (0.29997mm)     Round          326              30.31 Inch (769.89 mm)
+T2        23.62mil (0.59995mm)     Round          5                0.44 Inch (11.21 mm)
+T3        35.43mil (0.89992mm)     Round          50               6.77 Inch (171.93 mm)
+T4        51.18mil (1.29997mm)     Round          6                2.45 Inch (62.16 mm)
+T5        108.27mil (2.75006mm)    Round          5         NPTH   6.62 Inch (168.03 mm)
+---------------------------------------------------------------------------
+Totals                                            392              46.58 Inch (1183.22 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
