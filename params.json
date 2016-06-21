@@ -1,5 +1,5 @@
 {
-  "name": "Rpi hat amp",
+  "name": "RPI HAT AMP",
   "tagline": "A Class-D amplifier for your Raspberry Pi",
   "body": "# RPI HAT AMP TAS5756\r\nA Class-D amplifier for your Raspberry Pi\r\n\r\n![IC image](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_01/IMG_IC.jpg)\r\n\r\n## Rev 01\r\n\r\n![RPI_HAT_AMP_01_TOP](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_01/3D_VIEW_TOP.png)\r\n![RPI_HAT_AMP_01_BOT](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_01/3D_VIEW_BOT.png)\r\n\r\nThe board is designed around the Ti [TAS5756](http://www.ti.com/product/TAS5756) Class D amplifier.\r\n\r\n## Pictures\r\n\r\n![Oven image](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_01/IMG_OVEN.jpg)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
