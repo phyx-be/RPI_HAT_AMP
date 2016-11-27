@@ -60,8 +60,8 @@
 <li>Make sure your system is up to date by running <code>sudo rpi-update</code>
 </li>
 <li>Ensure the drivers are loaded by adding <code>dtoverlay=iqaudio-dacplus</code> in the <code>/boot/config.txt</code> file</li>
-<li>Remove the standard Raspberry Pi audio card by commecinting out the <code>snd-bcm2835</code> entry in the file <code>/etc/modules</code>, you might want to add <code>i2c-dev</code> as well.</li>
-<li>Sync and reboot your system wiht <code>sync</code> and <code>duso reboot</code>
+<li>Remove the standard Raspberry Pi audio card by commenting out the <code>snd-bcm2835</code> entry in the file <code>/etc/modules</code>, you might want to add <code>i2c-dev</code> as well.</li>
+<li>Sync and reboot your system wiht <code>sync</code> and <code>sudo reboot</code>
 </li>
 <li>Verify your card is available to ALSO by running <code>aplay -l</code>
 </li>
