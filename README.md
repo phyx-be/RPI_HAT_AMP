@@ -5,8 +5,8 @@ A Class-D amplifier for your Raspberry Pi
 
 ## Rev 02
 
-![RPI_HAT_AMP_02_TOP](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_02/3D_VIEW_TOP.png)
-![RPI_HAT_AMP_02_BOT](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_02/3D_VIEW_BOT.png)
+![RPI_HAT_AMP_02_TOP](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_02/3D_VIEW_TOP.PNG)
+![RPI_HAT_AMP_02_BOT](https://raw.githubusercontent.com/phyx-be/RPI_HAT_AMP/master/RPI_HAT_AMP_02/3D_VIEW_BOT.PNG)
 
 Revision 02 has been updated with a [cheaper power supply](http://www.richtek.com/assets/product_file/RT7272A/DS7272A-04.pdf) with a wide input range.
 
